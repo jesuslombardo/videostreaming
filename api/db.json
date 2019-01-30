@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "pepe",
+      "description": "lalalalalalal",
+      "id": 1
+    },
+    {
+      "title": "pepepepep",
+      "description": "pepepepepepepe",
+      "id": 2
+    },
+    {
+      "title": "mi stream",
+      "description": "mi streammi streammi streammi stream",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "titulo3yo",
+      "description": "titulo3yo",
+      "id": 6
+    }
+  ]
+}
